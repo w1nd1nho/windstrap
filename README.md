@@ -39,5 +39,5 @@ For now, build it from source.
 ### 🧰 Building from Source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/windstrap.git
+git clone https://github.com/w1nd1nho/windstrap.git
 cd windstrap
